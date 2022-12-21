@@ -13,6 +13,8 @@ Pode usar, é livre.
 Bons estudos 😄
 
 == EN 
+
+
 Even or odd 👓
 Structured in HTML and PHP with a little Boostrap 5 to look pretty.
 Point annotation in cookie, a cookie is created to record the points
